@@ -1,3 +1,3 @@
 preview
 
-https://usamarabie.github.io/Basic-Cart-using-React-and-Redux-Toolkit/
+https://main--tranquil-profiterole-9852d2.netlify.app/
